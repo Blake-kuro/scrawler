@@ -1,0 +1,876 @@
+挟む,はさむ,五段動詞・他動詞,N/A,"To sandwich; to insert","パンにハムを挟む。","Sandwich ham in bread."
+向かい合う,むかいあう,五段動詞・自動詞,N/A,"To face each other, to be opposite","二人は向かい合って座った。","The two sat facing each other."
+面する,めんする,サ行変格活用・自動詞,N/A,"To face, to look out on","窓は海に面している。","The window faces the sea."
+おしゃれ,おしゃれ,名詞/形容動動詞,N/A,"Stylish, fashionable","彼女はおしゃれなカフェが好きだ。","She likes stylish cafes."
+ちりばめる,ちりばめる,一段動詞・他動詞,N/A,"To inlay, to stud, to sprinkle","夜空に星がちりばめられている。","Stars are sprinkled across the night sky."
+堀,ほり,名詞,N/A,"Moat, ditch","お城の周りには深い堀がある。","There is a deep moat around the castle."
+にぎわう,にぎわう,五段動詞・自動詞,N/A,"To be bustling, to be crowded","お祭りでにぎわう通り。","A street bustling with a festival."
+貯める,ためる,一段動詞・他動詞,N/A,"To save, to accumulate","旅行のためにお金を貯める。","To save money for a trip."
+譲る,ゆずる,五段動詞・他動詞,N/A,"To give up, to hand over, to concede","電車でお年寄りに席を譲った。","I gave up my seat to an elderly person on the train."
+つかむ,つかむ,五段動詞・他動詞,N/A,"To grab, to grasp, to seize","チャンスをつかむ。","To seize an opportunity."
+効く,きく,五段動詞・自動詞,N/A,"To be effective, to work","この薬は風邪によく効く。","This medicine works well for colds."
+足りる,たりる,一段動詞・自動詞,N/A,"To be enough, to be sufficient","この量で十分足りる。","This amount is completely sufficient."
+通じる,つうじる,一段動詞・自動詞,N/A,"To be understood, to be communicated","彼の気持ちが私に通じた。","His feelings were communicated to me."
+受かる,うかる,五段動詞・自動詞,N/A,"To pass (an exam), to be accepted","彼は第一志望の大学に受かった。","He got accepted into his first-choice university."
+など,など,副助詞,N/A,"And so on, etc.","リンゴやバナナなど、果物を買った。","I bought fruits like apples and bananas, etc."
+過ごす,すごす,五段動詞・他動詞,N/A,"To spend (time), to pass (time)","夏休みを家族と過ごす。","To spend the summer vacation with my family."
+蒸し暑い,むしあつい,形容詞,N/A,"Hot and humid","日本の夏は蒸し暑い。","Japanese summers are hot and humid."
+都,みやこ,名詞,N/A,"Capital city","古都京都を訪れた。","I visited the ancient capital, Kyoto."
+かつて,かつて,副詞,N/A,"Once, formerly","この場所はかつて海だった。","This place was once the sea."
+まね,まね,名詞,N/A,"Imitation, mimicry","先生のまねをして字を書いた。","I wrote imitating the teacher's handwriting."
+広大,こうだい,形容動詞,N/A,"Vast, immense","広大な土地に家を建てる。","To build a house on a vast plot of land."
+そびえる,そびえる,一段動詞・自動詞,N/A,"To tower, to soar","空に高層ビルがそびえている。","Skyscrapers are soaring into the sky."
+鐘,かね,名詞,N/A,"Bell","教会の鐘の音が聞こえる。","I can hear the sound of the church bell."
+さっそく,さっそく,副詞,N/A,"Immediately, right away","さっそく宿題に取りかかった。","I immediately started on my homework."
+あっという間に,あっというまに,副詞,N/A,"In a flash, in the blink of an eye","時間が経つのはあっという間だ。","Time passes in a flash."
+正面,しょうめん,名詞,N/A,"Front, facade","建物の正面玄関で待つ。","Wait at the main entrance of the building."
+見下ろす,みおろす,五段動詞・他動詞,N/A,"To look down on, to overlook","丘の上から街を見下ろす。","To overlook the town from the top of the hill."
+かける,かける,一段動詞・他動詞,N/A,"To hang, to wear, to spend","壁に絵をかける。","To hang a picture on the wall."
+見渡す,みわたす,五段動詞・他動詞,N/A,"To look out over, to survey","展望台から街全体を見渡す。","To survey the entire city from the observation deck."
+夜空,よぞら,名詞,N/A,"Night sky","満月が夜空に輝いている。","A full moon is shining in the night sky."
+浮かび上がる,うかびあがる,五段動詞・自動詞,N/A,"To emerge, to rise to the surface","暗闇の中に彼の顔が浮かび上がった。","His face emerged from the darkness."
+かんしん,かんしん,名詞/形容動詞,N/A,"Admiration, impressed","彼の熱心さには感心する。","I'm impressed by his enthusiasm."
+あたり,あたり,名詞,N/A,"Vicinity, surroundings","このあたりは静かで住みやすい。","This vicinity is quiet and easy to live in."
+気がする,きがする,慣用表現,N/A,"To feel, to have a feeling","雨が降りそうな気がする。","I have a feeling it's going to rain."
+声をかける,こえをかける,慣用表現,N/A,"To speak to, to call out to","知らない人に声をかけるのは勇気がいる。","It takes courage to talk to strangers."
+抱く,いだく,五段動詞・他動詞,N/A,"To embrace, to hold (an idea, hope)","夢を抱いてこの町に来た。","I came to this town with a dream."
+すやすや,すやすや,副詞,N/A,"Sleeping peacefully","赤ちゃんがすやすやと眠っている。","The baby is sleeping peacefully."
+はねる,はねる,一段動詞・自動詞,N/A,"To jump, to splash","雨の日に車が泥水をはねる。","On a rainy day, cars splash muddy water."
+認める,みとめる,一段動詞・他動詞,N/A,"To admit, to recognize","自分の間違いを認める。","To admit one's own mistake."
+飼い主,かいぬし,名詞,N/A,"Pet owner","犬が飼い主の帰りを待っている。","The dog is waiting for its owner to come home."
+撫でる,なでる,一段動詞・他動詞,N/A,"To stroke, to pet","頭を優しく撫でる。","To gently stroke the head."
+従業員,じゅうぎょういん,名詞,N/A,"Employee, staff member","あの会社の従業員は皆親切だ。","The employees of that company are all kind."
+汚染,おせん,名詞,N/A,"Pollution","大気汚染が深刻な問題だ。","Air pollution is a serious problem."
+言語,げんご,名詞,N/A,"Language","彼は複数の言語を話せる。","He can speak multiple languages."
+吸い殻,すいがら,名詞,N/A,"Cigarette butt","道に吸い殻を捨てるのはやめましょう。","Let's stop throwing cigarette butts on the street."
+消し忘れ,けしわすれ,名詞,N/A,"Forgetting to turn off","電気の消し忘れに注意。","Be careful not to forget to turn off the light."
+優秀賞,ゆうしゅうしょう,名詞,N/A,"Excellence Award, Outstanding Performance Award","彼はコンクールで優秀賞を獲得した。","He won the Excellence Award in the competition."
+七転び八起き,ななころびやおき,四字熟語,N/A,"Getting up seven times when falling down eight (perseverance)","七転び八起きの精神で頑張る。","To persevere with a spirit of getting up every time you fall."
+明太子,めんたいこ,名詞,N/A,"Mentaiko (spicy cod roe)","おにぎりの具に明太子を入れる。","Put mentaiko in the rice ball filling."
+唐辛子,とうがらし,名詞,N/A,"Chili pepper, red pepper","料理に唐辛子を少し加える。","Add a little chili pepper to the dish."
+拝啓,はいけい,名詞,N/A,"Dear Sir/Madam (formal letter opening)","拝啓、皆様におかれましては...。","Dear sirs, regarding all of you..."
+ぽかぽか,ぽかぽか,副詞,N/A,"Warm and sunny","日差しがぽかぽかと気持ちいい。","The sunlight is warm and feels good."
+むしむし,むしむし,副詞,N/A,"Muggy, humid","今日はむしむしと暑い日だ。","Today is a muggy and hot day."
+じめじめ,じめじめ,副詞,N/A,"Damp, humid, gloomy","梅雨の時期は部屋がじめじめする。","During the rainy season, the room is damp."
+からっと,からっと,副詞,N/A,"Crisp, clear, dry","洗濯物がからっと乾いた。","The laundry dried crisply."
+ぽつぽつ,ぽつぽつ,副詞,N/A,"Sporadically, in drops","空から雨がぽつぽつと降り始めた。","Rain started falling from the sky in drops."
+じめじめ,じめじめ,副詞,N/A,"Damp, gloomy, depressing","じめじめした話は聞きたくない。","I don't want to hear depressing stories."
+しとしと,しとしと,副詞,N/A,"Softly, quietly (drizzle)","朝から雨がしとしとと降っている。","It's been drizzling quietly since morning."
+ザーザー,ザーザー,副詞,N/A,"Loudly (heavy rain)","外では雨がザーザー降っている。","It's raining heavily outside."
+どんより,どんより,副詞,N/A,"Gloomy, overcast, dull","どんよりした空模様だ。","The sky is overcast."
+夫妻,ふさい,名詞,N/A,"Husband and wife, couple","仲の良いご夫妻。","A good-natured couple."
+一人娘,ひとりむすめ,名詞,N/A,"Only daughter","彼女は両親の一人娘だ。","She is her parents' only daughter."
+通う,かよう,五段動詞・自動詞,N/A,"To commute, to go to and from","毎日電車で学校に通う。","To commute to school by train every day."
+意見,いけん,名詞,N/A,"Opinion, view","自分の意見をはっきり言う。","To state one's opinion clearly."
+成長,せいちょう,名詞,N/A,"Growth, development","子供の成長を見守る。","To watch over a child's growth."
+先日,せんじつ,名詞,N/A,"The other day, recently","先日、友人と食事をした。","I had a meal with a friend the other day."
+児童,じどう,名詞,N/A,"Children, pupils","この本は児童向けに書かれている。","This book is written for children."
+英検,えいけん,名詞,N/A,"Eiken (English proficiency test)","英検2級に合格した。","I passed the Eiken Level 2 exam."
+合格,ごうかく,名詞,N/A,"Passing (an exam), success","試験に合格する。","To pass an exam."
+身につける,みにつける,一段動詞・他動詞,N/A,"To acquire, to master","新しいスキルを身につける。","To acquire new skills."
+重要,じゅうよう,形容動詞,N/A,"Important, crucial","これは重要な会議だ。","This is an important meeting."
+担当,たんとう,名詞,N/A,"Charge, responsibility","このプロジェクトの担当者。","The person in charge of this project."
+講師,こうし,名詞,N/A,"Lecturer, instructor","大学で日本語の講師をしている。","I work as a Japanese language instructor at a university."
+流す,ながす,五段動詞・他動詞,N/A,"To stream, to flow, to play (music)","音楽を流しながら勉強する。","To study while playing music."
+幼い,おさない,形容詞,N/A,"Young, childish, innocent","幼い頃の思い出。","Memories from my childhood."
+苦労,くろう,名詞,N/A,"Hardship, toil, trouble","彼は多くの苦労を経験した。","He experienced a lot of hardship."
+確信,かくしん,名詞,N/A,"Conviction, belief, confidence","彼の成功を確信している。","I am confident of his success."
+メロディー,メロディー,名詞,N/A,"Melody","美しいメロディーが流れる。","A beautiful melody flows."
+入室,にゅうしつ,名詞,N/A,"Entry into a room","先生が入室する。","The teacher enters the room."
+モーツァルト,モーツァルト,名詞,N/A,"Mozart","モーツァルトの曲を聴く。","To listen to a song by Mozart."
+シューベルト,シューベルト,名詞,N/A,"Schubert","シューベルトの歌曲が好きだ。","I like Schubert's songs."
+人生,じんせい,名詞,N/A,"Life","一度きりの人生を大切にする。","To cherish one's once-in-a-lifetime life."
+可能性,かのうせい,名詞,N/A,"Possibility, potential","成功する可能性は十分にある。","There's a high possibility of success."
+チャンス,チャンス,名詞,N/A,"Chance, opportunity","絶好のチャンスを逃さない。","Don't miss a golden opportunity."
+人がる,ひとがる,五段動詞・自動詞,N/A,"To be crowded with people","この場所は人がっている。","This place is crowded with people."
+現在,げんざい,名詞,N/A,"Present, currently","現在、彼は海外に住んでいる。","He currently lives overseas."
+幼稚園,ようちえん,名詞,N/A,"Kindergarten","幼稚園の先生になるのが夢だ。","My dream is to become a kindergarten teacher."
+熱心,ねっしん,形容動詞,N/A,"Eager, enthusiastic","彼は何事にも熱心に取り組む。","He tackles everything with enthusiasm."
+私立,しりつ,名詞,N/A,"Private (school)","私立大学の受験をする。","To take the entrance exam for a private university."
+受験,じゅけん,名詞,N/A,"Taking an exam","大学受験のために勉強する。","To study for university entrance exams."
+無理,むり,名詞/形容動詞,N/A,"Impossible, unreasonable","それは無理な話だ。","That's an impossible story."
+虫歯,むしば,名詞,N/A,"Cavity, tooth decay","歯医者に行って虫歯を治す。","To go to the dentist to fix a cavity."
+資料,しりょう,名詞,N/A,"Documents, materials","会議の資料を準備する。","To prepare documents for the meeting."
+塾,じゅく,名詞,N/A,"Cram school","学校の帰りに塾に通う。","To go to cram school after returning from school."
+近づく,ちかづく,五段動詞・自動詞,N/A,"To approach, to come near","春が近づいてきた。","Spring is approaching."
+いたずら,いたずら,名詞,N/A,"Mischief, prank","子供のいたずら。","A child's mischief."
+悩む,なやむ,五段動詞・自動詞,N/A,"To worry, to be troubled","将来のことで悩んでいる。","I'm worrying about my future."
+落書き,らくがき,名詞,N/A,"Graffiti, scribble","壁に落書きをしてはいけない。","You must not write graffiti on the wall."
+出来事,できごと,名詞,N/A,"Incident, event","忘れられない出来事。","An unforgettable event."
+失敗,しっぱい,名詞,N/A,"Failure, mistake","失敗を恐れずに挑戦する。","To challenge without fear of failure."
+寝坊,ねぼう,名詞,N/A,"Oversleeping","寝坊して学校に遅刻した。","I overslept and was late for school."
+ゼミ,ゼミ,名詞,N/A,"Seminar","大学のゼミで発表をする。","To give a presentation at a university seminar."
+発表,はっぴょう,名詞,N/A,"Presentation, announcement","研究結果を発表する。","To announce the research results."
+カンカン,カンカン,副詞/名詞,N/A,"Very angry","父がカンカンに怒っている。","My father is extremely angry."
+失礼,しつれい,名詞/形容動詞,N/A,"Rudeness, discourtesy","人の話の途中で口を挟むのは失礼だ。","It is rude to interrupt someone while they are speaking."
+宝くじ,たからくじ,名詞,N/A,"Lottery ticket","宝くじが当たった。","I won the lottery."
+当たる,あたる,五段動詞・自動詞,N/A,"To hit, to win (a lottery)","宝くじが当たる。","To win the lottery."
+黙る,だまる,五段動詞・自動詞,N/A,"To be silent, to shut up","彼は何も言わず黙っていた。","He remained silent without saying anything."
+性格,せいかく,名詞,N/A,"Personality, character","明るい性格。","A cheerful personality."
+つい,つい,副詞,N/A,"Unintentionally, without thinking","つい食べ過ぎてしまった。","I unintentionally ate too much."
+先輩,せんぱい,名詞,N/A,"Senior, elder (in a company or school)","会社の先輩に相談する。","To consult with a senior at work."
+雰囲気,ふんいき,名詞,N/A,"Atmosphere, mood","お店の雰囲気がいい。","The atmosphere of the shop is nice."
+カラオケ,カラオケ,名詞,N/A,"Karaoke","友達とカラオケに行く。","To go to karaoke with friends."
+ふらふら,ふらふら,副詞,N/A,"Dizzily, unsteadily","熱があってふらふらする。","I'm dizzy because of the fever."
+おまけに,おまけに,接続詞,N/A,"In addition, moreover","雨が降ってきた。おまけに風も強い。","It started raining. Moreover, the wind is strong."
+ガンガン,ガンガン,副詞,N/A,"Pounding, throbbing (sound/pain)","頭がガンガンする。","My head is pounding."
+生命,せいめい,名詞,N/A,"Life, living thing","地球上のすべての生命。","All life on Earth."
+不思議,ふしぎ,形容動詞,N/A,"Strange, mysterious, wonderful","この世には不思議なことが多い。","There are many mysterious things in this world."
+科学,かがく,名詞,N/A,"Science","科学の力で病気を治す。","To cure a disease with the power of science."
+種,たね,名詞,N/A,"Seed","花を植えるために種をまく。","To sow seeds to plant flowers."
+再現,さいげん,名詞,N/A,"Reproduction, recreation","古い街並みが再現された。","The old cityscape was recreated."
+生き物,いきもの,名詞,N/A,"Living thing, creature","自然にはたくさんの生き物がいる。","There are many living creatures in nature."
+フクフク,フクフク,副詞,N/A,"Chubby, plump","フクフクとした赤ちゃんのほっぺ。","A baby's chubby cheeks."
+感動,かんどう,名詞,N/A,"Deep emotion, impression","映画を見て感動した。","I was moved by the movie."
+運動部,うんどうぶ,名詞,N/A,"Sports club","私は高校で運動部に所属していた。","I belonged to a sports club in high school."
+上下関係,じょうげかんけい,名詞,N/A,"Hierarchy, superior-subordinate relationship","会社では厳しい上下関係がある。","There is a strict hierarchy in the company."
+合宿,がっしゅく,名詞,N/A,"Training camp","週末はテニス部の合宿に参加する。","I will participate in the tennis club's training camp this weekend."
+治療,ちりょう,名詞,N/A,"Treatment, therapy","歯の治療をしてもらう。","To get dental treatment."
+長々と,ながながと,副詞,N/A,"Tediously, at great length","長々と話す。","To speak at great length."
+負ける,まける,一段動詞・自動詞,N/A,"To lose, to be defeated","試合に負ける。","To lose a game."
+熱心さ,ねっしんさ,名詞,N/A,"Enthusiasm, keenness","彼の熱心さには頭が下がる。","I'm impressed by his enthusiasm."
+結果,けっか,名詞,N/A,"Result, outcome","努力の結果、成功した。","Success was the result of hard work."
+相談,そうだん,名詞,N/A,"Consultation, discussion","友達に悩みを相談する。","To consult with a friend about my worries."
+正直,しょうじき,形容動詞/名詞,N/A,"Honest, frankly","正直に言うと、あまり好きじゃない。","To be honest, I don't like it very much."
+解決,かいけつ,名詞,N/A,"Solution, resolution","問題を解決する。","To solve a problem."
+調査,ちょうさ,名詞,N/A,"Investigation, survey","市場調査を行う。","To conduct a market survey."
+書類,しょるい,名詞,N/A,"Document, papers","必要な書類を提出する。","To submit the necessary documents."
+先方,せんぽう,名詞,N/A,"The other party, the other side","先方に確認の連絡を入れる。","To contact the other party for confirmation."
+確認,かくにん,名詞,N/A,"Confirmation","予約の確認をする。","To confirm a reservation."
+検査,けんさ,名詞,N/A,"Inspection, examination","健康診断で検査を受ける。","To undergo an examination during a health checkup."
+正常,せいじょう,形容動詞/名詞,N/A,"Normal, regular","機械は正常に動いている。","The machine is operating normally."
+
+ウキウキ
+ドキドキ
+イライラ
+がっかり
+ほっと
+かっと
+むっと
+くよくよ
+はらはら
+ぞっと
+
+復文
+おおざっぽ
+内気
+
+癒す
+心身
+休息
+甘える
+情熱
+純潔
+体調
+精神的
+癒し
+用いる
+皮膚
+刺激
+分泌
+内臓
+影響
+体感温度
+心拍数
+まばたき
+
+緊張度
+血圧
+減る
+不眠症
+若返り
+肌
+若々しい
+気分
+解消
+インテリア
+身近
+カラフル
+溢れる
+副作用
+気軽
+楽しむ
+試す
+海水浴
+クリック
+つながる
+チャイム
+トップランナー
+競技場
+虹
+枕元
+具合
+沸騰
+弱火
+格好
+後悔
+冗談
+紫
+灰色
+うつぶせ
+横向き
+仰向け
+錠
+問診票
+動悸
+めまい
+胃痛
+口渇
+嘔吐
+咳
+息切れ
+
+輸血
+
+患者
+耳鼻科
+
+痒い
+
+ズキズキ
+キリキリ
+クラクラ
+フラフラ
+ヒリヒリ
+ムズムズ
+ゾクゾク
+ムカムカ
+
+粉薬
+
+塗り薬
+
+貼り薬
+
+座薬
+
+抑える
+
+食間
+
+ネバネバ
+
+ヌルヌル
+
+しかめる
+
+挙げる
+
+バラエティー
+
+解く
+
+鍵
+
+発酵
+
+菌
+
+変化
+
+繁殖
+
+タンパク質
+分解
+
+独特
+
+生み出す
+
+本来
+
+共通
+
+
+魅力
+
+各国
+
+作物
+
+異なる
+
+主食
+
+かび
+
+一方
+
+ほぞう
+
+知恵
+
+ミネラル
+
+ガン
+
+予防
+
+優れる
+
+環境
+
+解決策
+
+実用化
+
+最先端
+
+注ぐ
+
+明け方
+
+激しい
+
+文明
+
+栄える
+
+海辺
+
+提出
+
+温室栽培
+
+預かる
+
+済ませる
+
+貼る
+
+かたづけ
+
+編み物
+
+口をきく
+
+日差し
+
+米を研ぐ
+
+卵を割る
+
+だしを取る
+
+皮をむく
+
+生姜をすりおろす
+
+ごま
+
+かき混ぜる
+
+おたま
+
+ざるに
+
+しゃもじ
+
+すくう
+
+シチュー
+
+シューマイ
+
+ポテトサラダ
+
+塩を振る
+
+紅生姜
+
+マヨネーズ
+
+のり
+
+巻く
+
+タレにつける
+
+まな板
+
+ピーラー
+
+皮剥き器
+
+応える
+
+手配
+
+務め
+
+底
+
+普段
+
+やりがい
+
+えがく
+
+長生き
+
+望む
+
+まちづくり
+
+取り替える
+
+つめる
+
+爪
+
+白馬
+
+引き受ける
+
+ゴミ処理場
+
+上達
+
+秘訣
+
+親知らず
+
+訴える
+
+針
+
+
+単調
+
+足早
+
+とられる
+
+じっと
+
+拾い上げる
+
+スタスタ
+
+言い訳
+
+主
+
+咲き乱れる
+
+色とりどり
+
+言い表す
+
+抱える
+
+にんまり
+
+崩れる
+
+叫ぶ
+
+見込み
+
+立ち昇る
+
+すっと
+
+危うく
+
+足す
+
+深刻
+
+視力
+
+紺色
+
+勘違い
+
+生ガキ
+
+強盗
+
+ゲラゲラ
+
+クスクス
+
+ニコニコ
+
+ニヤニヤ
+
+ぐっすり
+
+ぐうぐう
+
+うとうと
+
+すやすや
+
+司会
+
+上司
+
+職業
+
+職場
+
+伺う
+
+迎え
+
+歓迎する
+
+相談する
+
+冗談する
+
+相談係
+
+関係者
+
+望み
+
+要望する
+
+応える
+
+応じる
+
+航空券
+
+提げる
+
+提案する
+
+提出する
+
+翻る
+
+翻訳する
+
+等しい
+
+一等
+
+平等
+
+依頼する
+
+急ぐ
+
+急に
+
+急用
+
+捜す
+
+捜索する
+
+法律
+
+務める
+
+勤務する
+
+事務
+
+恥ずかしい
+
+恥
+
+底
+
+底力
+
+海底
+
+底辺
+
+非日常
+
+非常口
+
+常に
+
+日常
+
+常識
+
+正常
+
+遠慮
+
+配慮
+
+絵本
+
+葉書
+
+言葉
+
+紅葉
+
+紅葉
+
+乾く
+
+乾かす
+
+乾杯する
+
+乾電池
+
+乾燥
+
+加わる
+
+加える
+
+参加する
+
+加湿器
+
+食器
+
+楽器
+
+器
+
+口紅
+
+紅茶
+
+希望する
+
+財布
+
+財産
+
+布
+
+名札
+
+札
+
+改札口
+
+預かる
+
+預け入れ
+
+針
+
+秒針
+
+方針
+
+彼女
+
+逃す
+
+逃走する
+
+我
+
+我が国
+
+我慢する
+
+城
+
+竜宮城
+
+城下町
+
+島国
+
+無人島
+
+退院
+
+早退する
+
+引退する
+
+退屈する
+
+飽きる
+
+咲く
+
+乱れる
+
+乱す
+
+混乱する
+
+踊る
+
+暮らす
+
+一人暮らし
+
+幸せ
+
+幸い
+
+海の幸
+
+幸福
+
+幸運
+
+続く
+
+連続する
+
+戻る
+
+大丈夫
+
+箱
+
+玉
+
+玉手箱
+
+目玉
+
+玉石
+
+丈
+
+背丈
+
+叫ぶ
+
+叫び声
+
+絶叫する
+
+込む
+
+申し込む
+
+見込み
+
+滅亡する
+
+亡くなる
+
+亡くす
+
+死亡する
+
+煙
+
+禁煙する
+
+昇る
+
+上昇する
+
+売る
+
+売り場
+
+発売する
+
+売店
+
+販売する
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

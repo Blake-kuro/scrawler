@@ -1,0 +1,294 @@
+name,trans,例文,例文翻译
+Neuron,神经元,The neuron is the basic working unit of the brain.,神经元是大脑的基本工作单元。
+Potential,电位,Action potentials are essential for neural communication.,动作电位对于神经通信至关重要。
+Spike,脉冲/放电,The system counts spikes to decode motor intent.,系统通过计算脉冲来解码运动意图。
+Dendrite,树突,Dendrites receive information from other neurons.,树突接收来自其他神经元的信息。
+Axon,轴突,The axon transmits signals over long distances.,轴突远距离传输信号。
+Synapse,突触,Chemicals cross the synapse to relay signals.,化学物质跨过突触以传递信号。
+Adapt,适应,Neurons adapt to repetitive stimuli over time.,神经元会随着时间的推移适应重复的刺激。
+Plasticity,可塑性,Neural plasticity allows the brain to reorganize itself.,神经可塑性使大脑能够重新组织自我。
+Facilitation,易化,Synaptic facilitation enhances the post-synaptic response.,突触易化增强了突触后反应。
+Depression,抑制/低气压,Long-term depression weakens specific synaptic connections.,长时程抑制削弱了特定的突触连接。
+Anatomy,解剖学,Functional anatomy helps locate the motor cortex.,功能解剖学有助于定位运动皮层。
+Stimulate,刺激,Electrodes stimulate specific brain regions to restore sight.,电极刺激特定的大脑区域以恢复视力。
+Invasive,侵入式的,Invasive sensors are placed directly into the brain tissue.,侵入式传感器直接放置在大脑组织中。
+Noninvasive,非侵入式的,EEG is a popular noninvasive brain imaging technique.,EEG 是一种流行的非侵入式脑成像技术。
+Simultaneous,同时的,The system allows simultaneous recording from multiple areas.,该系统允许从多个区域进行同步记录。
+Multielectrode,多电极的,Multielectrode arrays can record hundreds of neurons.,多电极阵列可以记录数百个神经元。
+Neurochip,神经芯片,A neurochip can process neural signals in real-time.,神经芯片可以实时处理神经信号。
+Frequency,频率,Brain waves are categorized by their oscillation frequency.,脑波根据其振荡频率进行分类。
+Fourier,傅里叶,Fourier analysis decomposes signals into frequency components.,傅里叶分析将信号分解为频率分量。
+Discrete,离散的,The analog signal is sampled into a discrete time series.,模拟信号被采样为离散时间序列。
+Spectral,谱的,Spectral power increases during specific cognitive tasks.,在特定的认知任务期间，谱功率会增加。
+Feature,特征,Feature extraction reduces the dimensionality of the data.,特征提取降低了数据的维度。
+Wavelet,小波,Wavelet transform is ideal for analyzing transient spikes.,小波变换是分析瞬时脉冲的理想选择。
+Hjorth,赫斯（参数）,Hjorth parameters describe the dynamics of EEG signals.,赫斯参数描述了 EEG 信号的动力学。
+Fractal,分形,Fractal dimension can measure the complexity of brain activity.,分形维度可以衡量大脑活动的复杂性。
+Autoregressive,自回归,An autoregressive model predicts signals based on past values.,自回归模型基于过去的值预测信号。
+Bayesian,贝叶斯,Bayesian decoders update intent based on prior probability.,贝叶斯解码器根据先验概率更新意图。
+Kalman,卡尔曼,A Kalman filter provides smooth tracking for cursor control.,卡尔曼滤波器为光标控制提供平滑的追踪。
+Particle,粒子（滤波）,Particle filters are used for nonlinear state estimation.,粒子滤波器用于非线性状态估计。
+Spatial,空间的,Spatial filters improve the localization of neural sources.,空间滤波器提高了神经源的定位。
+Bipolar,双极的,Bipolar recording reduces common-mode noise.,双极记录减少了共模噪声。
+Laplacian,拉普拉斯,A Laplacian filter enhances local spatial resolution.,拉普拉斯滤波器增强了局部空间分辨率。
+Reference,参考,Proper referencing is crucial for clean EEG data.,正确的参考对于获取干净的 EEG 数据至关重要。
+Component,成分,Independent component analysis separates neural artifacts.,独立成分分析可以分离神经伪迹。
+Pattern,模式,Machine learning identifies patterns in neural firing.,机器学习识别神经放电中的模式。
+Artifact,伪迹,Eye blinks are a common artifact in brain recordings.,眨眼是脑记录中常见的伪迹。
+Reduction,减少/还原,Artifact reduction is a key step in pre-processing.,伪迹消除是预处理的关键步骤。
+Threshold,阈值,A spike is detected when the signal crosses a threshold.,当信号超过阈值时，就会检测到一个脉冲。
+Notch,陷波,A notch filter removes power line interference.,陷波滤波器去除电源线干扰。
+Ensemble,集成,An ensemble of classifiers often yields higher accuracy.,分类器集成通常能产生更高的准确率。
+Classification,分类,Linear classification is used to distinguish brain states.,线性分类用于区分大脑状态。
+Evaluation,评估,Cross-validation is used for performance evaluation.,交叉验证用于性能评估。
+Performance,性能,Information transfer rate measures BCI performance.,信息传输率衡量脑机接口的性能。
+Regression,回归,Regression models map neural data to continuous movement.,回归模型将神经数据映射到连续运动。
+Backpropagation,反向传播,Backpropagation is used to train deep neural networks.,反向传播用于训练深度神经网络。
+Radial,径向的,Radial basis functions are used in nonlinear kernels.,径向基函数用于非线性核中。
+Gaussian,高斯,The noise distribution is often modeled as Gaussian.,噪声分布通常被建模为高斯分布。
+Condition,调节/条件,Operant conditioning helps users control their brain waves.,操作性条件反射帮助用户控制他们的脑波。
+Population,群体,Population coding involves the activity of many neurons.,群体编码涉及许多神经元的活动。
+Imagine,想象,Users can imagine movement to control a robotic arm.,用户可以通过想象动作来控制机械臂。
+Motor,运动的,The primary motor cortex controls voluntary movement.,初级运动皮层控制随意运动。
+Cognitive,认知的,Cognitive load can affect the accuracy of a BCI.,认知负荷会影响脑机接口的准确性。
+Stimulus-Evoked,刺激诱发的,P300 is a well-known stimulus-evoked potential.,P300 是一种著名的刺激诱发电位。
+Paradigm,范式,The P300 speller is a classic BCI paradigm.,P300 拼写器是一个经典的脑机接口范式。
+Decode,解码,Algorithms decode brain signals into control commands.,算法将大脑信号解码为控制指令。
+Prosthetic,假体的,A prosthetic limb can be controlled via neural interfaces.,假肢可以通过神经接口进行控制。
+Cursor,光标,The user moved the computer cursor using only thought.,用户仅凭思维移动电脑光标。
+Formation,形成,Neural formation occurs during early development.,神经形成发生在地早期发育阶段。
+Cortical,皮层的,Cortical maps represent different parts of the body.,皮层映射代表身体的不同部分。
+Implant,植入物,A brain implant can bypass damaged spinal nerves.,大脑植入物可以绕过受损的脊神经。
+Electrocorticographic,皮层电图的,ECoG provides better signal quality than scalp EEG.,ECoG 提供比头皮 EEG 更好的信号质量。
+Peripheral,外周的,Peripheral nerve interfaces can control hand prostheses.,外周神经接口可以控制手部假体。
+Reinnervation,神经再支配,Targeted muscle reinnervation helps amputees.,靶向肌肉神经再支配帮助截肢者。
+Oscillatory,振荡的,Oscillatory activity reflects rhythmic neural firing.,振荡活动反映了节律性的神经放电。
+Coadaptive,共适应的,Coadaptive BCI updates both the user and the machine.,共适应脑机接口同时更新用户和机器。
+Hierarchical,层级结构的,The brain uses a hierarchical system for motor control.,大脑使用层级系统进行运动控制。
+Magnetoencephalography,脑磁图,MEG measures the magnetic fields produced by the brain.,MEG 测量大脑产生的磁场。
+Infrared,红外线的,Functional near-infrared spectroscopy measures blood flow.,功能性近红外光谱测量血流量。
+Optical,光学的,Optical imaging provides a non-invasive view of the cortex.,光学成像提供皮层的非侵入式视角。
+Sensory,感觉的,Sensory feedback is essential for natural movement.,感觉反馈对于自然运动至关重要。
+Restoration,恢复,The goal of BCI is the restoration of lost function.,脑机接口的目标是恢复失去的功能。
+Cochlear,耳蜗的,Cochlear implants restore hearing to the deaf.,耳蜗植入物为失聪者恢复听力。
+Retinal,视网膜的,Retinal implants can provide basic visual perception.,视网膜植入物可以提供基础的视觉感知。
+Augmentation,增强,BCI can be used for sensory augmentation.,脑机接口可用于感觉增强。
+Bidirectional,双向的,A bidirectional BCI both records and stimulates.,双向脑机接口既记录又刺激。
+Recurrent,循环的,Recurrent neural networks are good for temporal data.,循环神经网络擅长时间序列数据。
+Tactile,触觉的,Tactile stimulation provides feedback from a robotic hand.,触觉刺激提供来自机械手的反馈。
+Somatosensory,躯体感觉的,The somatosensory cortex processes touch information.,躯体感觉皮层处理触摸信息。
+Ethics,伦理,Ethics is a major concern in neural engineering.,伦理是神经工程中的一个主要关注点。
+Rehabilitation,康复,BCI aids in the rehabilitation of stroke patients.,脑机接口辅助中风患者的康复。
+Wheelchair,轮椅,Mind-controlled wheelchairs offer more independence.,思维控制的轮椅提供更多独立性。
+Navigate,导航,The avatar can navigate through a virtual world.,虚拟化身可以在虚拟世界中导航。
+Throughput,吞吐量,High throughput is needed for complex BCI control.,复杂的脑机接口控制需要高吞吐量。
+Monitor,监测,We can monitor alertness levels during long tasks.,我们可以在长时间任务中监测警觉程度。
+Authentication,认证,Brainwaves can serve as a form of authentication.,脑波可以作为一种身份认证形式。
+Exoskeleton,外骨骼,An exoskeleton supports the user's physical movements.,外骨骼支持用户的肢体动作。
+Mnemonic,记忆的,Mnemonic devices help in encoding information.,记忆装置有助于编码信息。
+Consent,同意,Informed consent is a core principle of medical ethics.,知情同意是医学伦理的核心原则。
+Privacy,隐私,Neural privacy must be protected from unauthorized access.,神经隐私必须受到保护，防止未经授权的访问。
+Bernoulli,伯努利,The trial follows a Bernoulli distribution.,该试验遵循伯努利分布。
+Evolve,进化,The brain has evolved over millions of years.,大脑经过数百万年的进化。
+Millennium,千年,Neural structures have remained stable for a millennium.,神经结构在千年间保持稳定。
+Tinker,修补,Evolution tends to tinker with existing structures.,进化倾向于对现有结构进行修补。
+Interdisciplinary,跨学科的,BCI is a highly interdisciplinary field.,脑机接口是一个高度跨学科的领域。
+Leverage,杠杆/利用,We leverage machine learning to decode signals.,我们利用机器学习来解码信号。
+Stimoceiver,刺激接收器,The stimoceiver was an early implantable BCI device.,刺激接收器是一种早期的植入式脑机接口设备。
+Caudate,尾状的,The caudate nucleus is part of the basal ganglia.,尾状核是基底节的一部分。
+Nucleus,神经核,The nucleus processes incoming sensory information.,神经核处理输入的感官信息。
+Symptom,症状,BCI can help manage the symptoms of ALS.,脑机接口可以帮助管理渐冻症的症状。
+Debilitating,使人衰弱的,Stroke is a debilitating condition for many patients.,中风对许多患者来说是一种使人衰弱的状况。
+Amputee,截肢者,Amputees can regain control through neural interfaces.,截肢者可以通过神经接口重新获得控制。
+Sclerosis,硬化症,ALS is a progressive neurodegenerative disease.,ALS 是一种进展性的神经退行性疾病。
+Paralyze,使瘫痪,A spinal injury can paralyze the lower limbs.,脊髓损伤会使下肢瘫痪。
+Synthesize,合成,The computer can synthesize artificial feedback.,计算机可以合成人工反馈。
+Unsurpassed,无可比拟的,Human brain efficiency remains unsurpassed.,人脑的效率仍然是无可比拟的。
+
+despite,尽管,Despite the noise the signal was clear.,尽管存在噪声，信号依然清晰。
+capability,能力/容量,The brain has an immense processing capability.,大脑具有巨大的处理能力。
+massive,大规模的,The brain is a massively parallel processor.,大脑是一个大规模并行处理器。
+parallel,并行的,Parallel processing allows for high-speed computation.,并行处理允许高速计算。
+workhorse,主力/驮马,The neuron is the workhorse of the nervous system.,神经元是神经系统的核心主力。
+electrochemical,电化学的,Neural communication is an electrochemical process.,神经通信是一个电化学过程。
+convey,传达/传递,Axons convey signals to other neurons.,轴突将信号传递给其他神经元。
+plastic,可塑的/塑料的,The brain is highly plastic during development.,大脑在发育过程中具有高度的可塑性。
+circumstance,情况/环境,Synaptic strength changes under various circumstances.,突触强度在各种情况下会发生变化。
+von Neumann architecture,冯·诺依曼架构,Computers are based on the von Neumann architecture.,计算机基于冯·诺依曼架构。
+primer,入门/初级读本,This book serves as a primer on neuroscience.,这本书是神经科学的入门读物。
+synapse,突触,Information is transmitted across the synapse.,信息通过突触传递。
+architecture,架构,The brain architecture is complex and hierarchical.,大脑架构复杂且具有层级结构。
+regard,看待/认为,The neuron is regarded as the basic unit of life.,神经元被认为是生命的基本单位。
+crude,粗略的,This model is a crude approximation of reality.,这个模型是对现实的粗略近似。
+approximation,近似,The simulation is a close approximation of neural activity.,该模拟是对神经活动的高度近似。
+leaky,有泄漏的,A leaky membrane affects the time constant.,有泄漏的膜会影响时间常数。
+charge,电荷/充电,Ions carry positive or negative charges.,离子携带正电荷或负电荷。
+membrane,膜,The cell membrane regulates the flow of ions.,细胞膜调节离子的流动。
+lipid,脂质,The membrane is composed of a lipid bilayer.,膜由脂质双分子层组成。
+impermeable,不透水的/不渗透的,The lipid bilayer is impermeable to most ions.,脂质双分子层对大多数离子是不渗透的。
+ionic channel,离子通道,Ionic channels allow specific ions to pass through.,离子通道允许特定离子通过。
+dance,舞蹈/跳动,The complex dance of ions creates action potentials.,离子的复杂交互产生了动作电位。
+depict,描绘,The diagram depicts the structure of a neuron.,该图描绘了神经元的结构。
+concentration,浓度,The ion concentration is different inside and outside.,内外离子浓度不同。
+sodium,钠,Sodium ions flow into the cell during excitation.,兴奋时钠离子流入细胞。
+chloride,氯化物,Chloride ions contribute to inhibitory potentials.,氯离子有助于抑制性电位。
+calcium,钙,Calcium is vital for neurotransmitter release.,钙对于神经递质的释放至关重要。
+potassium,钾,Potassium channels help restore the resting potential.,钾通道有助于恢复静息电位。
+anion,阴离子,Organic anions stay inside the cell membrane.,有机阴离子留在细胞膜内。
+pump,泵/抽吸,Sodium-potassium pumps maintain the ion gradient.,钠钾泵维持离子梯度。
+approximate,近似的/大约,The membrane potential is approximately -70mV.,膜电位大约为 -70mV。
+protein,蛋白质,Proteins reside within the lipid bilayer.,蛋白质存在于脂质双分子层中。
+reside,居住/存在于,Membrane proteins reside in the cell surface.,膜蛋白存在于细胞表面。
+aqueous,水的/水性的,Ions are dissolved in an aqueous medium.,离子溶解在水性介质中。
+medium,介质/媒介,The extracellular medium is rich in sodium.,细胞外介质富含钠。
+sufficient,足够的,A sufficient stimulus triggers an action potential.,足够的刺激会触发动作电位。
+cascade,级联/小瀑布,Signal transduction involves a molecular cascade.,信号转导涉及分子级联。
+influx,流入,A rapid influx of sodium depolarizes the cell.,钠离子的快速流入使细胞去极化。
+outflux,流出,The outflux of potassium repolarizes the membrane.,钾离子的流出使膜复极化。
+rapid,快速的,The action potential is a rapid change in voltage.,动作电位是电压的快速变化。
+represent,代表,A spike represents a single neural event.,脉冲代表单个神经事件。
+dominant,占主导地位的,Sodium is the dominant ion during the rising phase.,在上升相，钠是占主导地位的离子。
+stereotype,定型/陈规,Action potentials are stereotyped signals.,动作电位是定型（规格统一）的信号。
+extracellular,细胞外的,Extracellular recording is less invasive.,细胞外记录的侵入性较小。
+sequence,序列,The sequence of spikes encodes information.,脉冲序列编码信息。
+stereotypical,典型的/定型的,The waveform of a spike is stereotypical.,脉冲的波形是定型的。
+ramp,斜坡,A slow ramp in potential leads to the threshold.,电位的缓慢上升导向阈值。
+threshold,阈值,The neuron fires when it reaches the threshold.,神经元达到阈值时放电。
+fire,放电/开火,The neuron begins to fire rapidly.,神经元开始快速放电。
+morphological,形态学的,Morphological diversity reflects functional roles.,形态多样性反映了功能角色。
+soma,胞体,The soma contains the nucleus of the neuron.,胞体包含神经元的细胞核。
+dendrite,树突,Dendrites integrate incoming synaptic inputs.,树突整合输入的突触信号。
+initiate,发起/开始,The action potential is initiated at the axon hillock.,动作电位在轴突始段发起。
+propagate,传播,The signal propagates along the axon.,信号沿着轴突传播。
+myelin,髓鞘,Myelin acts as an insulator for the axon.,髓鞘作为轴突的绝缘体。
+sheath,鞘,The myelin sheath speeds up signal transmission.,髓鞘加快了信号传输速度。
+boost,提高/助力,Nodes of Ranvier boost the signal propagation.,朗飞氏结增强了信号传播。
+term,术语/期限,In biological terms the brain is a complex organ.,在生物学角度上，大脑是一个复杂的器官。
+myelinated,有髓鞘的,Myelinated fibers conduct signals faster.,有髓鞘纤维传导信号更快。
+cleft,裂缝,The synaptic cleft is the space between neurons.,突触间隙是神经元之间的空间。
+presynaptic,突触前的,Neurotransmitters are released from the presynaptic terminal.,神经递质从突触前末梢释放。
+postsynaptic,突触后的,The postsynaptic membrane contains receptors.,突触后膜包含受体。
+neurotransmitter,神经递质,Neurotransmitters relay signals across synapses.,神经递质在突触间传递信号。
+vesicle,囊泡,Synaptic vesicles store neurotransmitters.,突触囊泡储存神经递质。
+receptor,受体,Receptors bind to specific neurotransmitters.,受体与特定的神经递质结合。
+excitatory,兴奋性的,Glutamate is the main excitatory neurotransmitter.,谷氨酸是主要的兴奋性神经递质。
+inhibitory,抑制性的,GABA is a major inhibitory neurotransmitter.,GABA 是主要的抑制性神经递质。
+excitatory postsynaptic potential,兴奋性突触后电位,The EPSP increases the probability of firing.,EPSP 增加了放电概率。
+interneuron,中间神经元,Interneurons connect different neural circuits.,中间神经元连接不同的神经回路。
+desire,渴望/希望,The user has a desired movement in mind.,用户心中有一个预期的动作。
+emit,发出/发射,The neuron emits a sequence of pulses.,神经元发出一段脉冲序列。
+hybrid,混合的,The brain uses a hybrid analog-digital code.,大脑使用模拟-数字混合编码。
+ignore,忽略,The model ignores small fluctuations in voltage.,该模型忽略了电压的小幅波动。
+associate,关联,Memory is associated with synaptic changes.,记忆与突触变化相关。
+plasticity,可塑性,Synaptic plasticity is key to learning.,突触可塑性是学习的关键。
+critical,关键的,Timing is critical for synaptic potentiation.,时机对于突触增强至关重要。
+component,组件/成分,Plasticity is a critical component of adaptation.,可塑性是适应的关键组成部分。
+potentiation,增强/潜能化,Long-term potentiation strengthens synapses.,长时程增强强化了突触。
+depression,抑制/抑郁,Long-term depression weakens synaptic signals.,长时程抑制削弱了突触信号。
+dependent,依赖的,Plasticity is often activity-dependent.,可塑性通常是活动依赖性的。
+polarity,极性,The polarity of the change depends on the timing.,变化的极性取决于时机。
+facilitation,易化,Short-term facilitation lasts for seconds.,短时程易化持续数秒。
+correlate,关联,Firing rates correlate with movement speed.,放电率与运动速度相关。
+implementation,实现/执行,The physical implementation of memory is synaptic.,记忆的物理实现是突触性的。
+postulate,假定,Hebb's postulate explains synaptic strengthening.,赫布假说解释了突触强化。
+consistent,一致的,Consistent firing leads to stronger connections.,持续一致的放电导致更强的连接。
+hippocampus,海马体,The hippocampus is essential for memory formation.,海马体对于记忆形成至关重要。
+neocortex,新皮层,The neocortex is involved in higher functions.,新皮层涉及高级功能。
+cerebellum,小脑,The cerebellum coordinates voluntary movements.,小脑协调随意运动。
+protocol,协议/方案,The researchers used a strict stimulation protocol.,研究人员使用了严格的刺激方案。
+demonstrate,证明/展示,The study demonstrates synaptic scaling.,该研究证明了突触缩放。
+simultaneous,同时的,Simultaneous firing strengthens the synapse.,同时放电强化了突触。
+precise,精确的,Precise timing is required for STDP.,STDP 需要精确的时机。
+occur,发生,Changes occur at the molecular level.,变化发生在分子层面。
+phenomenon,现象,LTP is a well-studied neural phenomenon.,LTP 是一个经过深入研究的神经现象。
+vice versa,反之亦然,Strong input leads to LTP and vice versa.,强输入导致 LTP，反之亦然。
+particular,特别的/特定,This effect is particularly strong in the cortex.,这种效应在皮层中特别强。
+ephemeral,短暂的,Short-term plasticity is an ephemeral effect.,短时程可塑性是一种短暂的效应。
+temporal,时间的,Temporal summation occurs at the dendrites.,时间总和发生在树突处。
+diminish,减少,The response diminishes after repeated stimuli.,重复刺激后反应减弱。
+burst,爆发,A burst of spikes can trigger potentiation.,脉冲爆发可以触发增强。
+subsequent,随后的,Subsequent inputs produce a smaller response.,随后的输入产生较小的反应。
+predecessor,前任/前辈,The neuron's activity influences its predecessor.,神经元的活动影响其前身。
+cortical,皮层的,Cortical neurons are organized in layers.,皮层神经元按层组织。
+anatomy,解剖学,Neuroanatomy is the study of brain structure.,神经解剖学是研究大脑结构的学科。
+treatment,治疗/处理,The treatment focuses on restoring motor function.,治疗重点在于恢复运动功能。
+broad,宽泛的/广泛的,The nervous system is broadly divided into two parts.,神经系统大致分为两部分。
+peripheral,外周的,The peripheral nervous system connects to limbs.,外周神经系统连接到四肢。
+somatic,躯体的,The somatic system controls voluntary muscles.,躯体系统控制随意肌。
+autonomic,自主的/植物性的,The autonomic system regulates internal organs.,自主神经系统调节内脏器官。
+spinal cord,脊髓,The spinal cord carries signals to the brain.,脊髓将信号传导至大脑。
+descending,下降的,Descending pathways carry motor commands.,下行通路携带运动指令。
+ascending,上升的,Ascending pathways carry sensory information.,上行通路携带感觉信息。
+reflex,反射,Reflexes are rapid and involuntary responses.,反射是快速且无意识的反应。
+withdrawal,撤退/撤回,The withdrawal reflex protects us from pain.,撤退反射保护我们免受疼痛。
+nucleus,神经核/细胞核,A nucleus is a cluster of neurons in the CNS.,神经核是中枢神经系统中的神经元集群。
+cluster,集群/簇,Neurons cluster together to form functional units.,神经元聚集在一起形成功能单元。
+medulla,延髓,The medulla controls autonomic functions like breathing.,延髓控制呼吸等自主功能。
+pons,脑桥,The pons relays signals between the cortex and cerebellum.,脑桥在皮层和小脑之间传递信号。
+midbrain,中脑,The midbrain is involved in vision and hearing.,中脑涉及视觉和听觉。
+constitute,构成,These structures constitute the brainstem.,这些结构构成了脑干。
+stem,干/茎,The brain stem connects the brain to the spinal cord.,脑干将大脑与脊髓连接起来。
+hypothalamus,下丘脑,The hypothalamus regulates body temperature.,下丘脑调节体温。
+thalamus,丘脑,The thalamus acts as a sensory relay station.,丘脑作为感觉中继站。
+diencephalon,间脑,The diencephalon includes the thalamus and hypothalamus.,间脑包括丘脑和下丘脑。
+relay,中继/传递,The thalamus relays information to the cortex.,丘脑将信息传递到皮层。
+cerebral cortex,大脑皮层,The cerebral cortex is responsible for cognition.,大脑皮层负责认知。
+neocortex,新皮层,The neocortex is involved in higher-order brain functions.,新皮层参与高级脑功能。
+hippocampus,海马体,The hippocampus plays a major role in spatial memory.,海马体在空间记忆中起着重要作用。
+perception,感知,Sensory perception is the process of interpreting stimuli.,感觉感知是解释刺激的过程。
+cognition,认知,BCI technology aims to enhance human cognition.,脑机接口技术旨在增强人类认知。
+medulla,延髓,The medulla regulates autonomic functions like heart rate.,延髓调节心率等自主功能。
+inferior,下方的,The inferior colliculus is a part of the auditory system.,下丘是听觉系统的一部分。
+superior,上方的,The superior colliculus coordinates eye movements.,上丘协调眼球运动。
+colliculus,丘/丘脑（如上丘/下丘）,The colliculus is located in the midbrain.,丘状体位于中脑。
+tegmentum,被盖,The tegmentum contains several nuclei involved in motor control.,被盖包含若干参与运动控制的神经核。
+reticular,网状的,The reticular formation regulates sleep-wake cycles.,网状结构调节睡眠-觉醒周期。
+nucleus,神经核/细胞核,The lateral geniculate nucleus relays visual information.,外侧膝状体核中继视觉信息。
+diencephalon,间脑,The diencephalon acts as a primary relay for sensory data.,间脑作为感觉数据的初级中继。
+thalamus,丘脑,Almost all sensory signals pass through the thalamus.,几乎所有的感觉信号都经过丘脑。
+hypothalamus,下丘脑,The hypothalamus links the nervous system to the endocrine system.,下丘脑将神经系统与内分泌系统联系起来。
+relay,中继/传递,Thalamic nuclei relay signals to the cerebral cortex.,丘脑核将信号传递到大脑皮层。
+organ,器官,The ear is the primary organ for hearing.,耳朵是主要的听觉器官。
+olfaction,嗅觉,Olfaction is the only sense that bypasses the thalamus.,嗅觉是唯一绕过丘脑的感觉。
+bypass,绕过/避开,Information bypasses the traditional sensory relay station.,信息绕过了传统的感觉中继站。
+olfactory,嗅觉的,The olfactory bulb processes chemical signals from the nose.,嗅球处理来自鼻子的化学信号。
+cortex,皮层,The cerebral cortex is divided into four lobes.,大脑皮层分为四个叶。
+cortico,皮层的（前缀）,The corticospinal tract is a major motor pathway.,皮层脊髓束是主要的运动通路。
+cerebral,大脑的,The cerebral hemispheres are connected by the corpus callosum.,大脑半球由胼胝体连接。
+hemisphere,半球,The left hemisphere is often dominant for language.,左半球通常在语言方面占主导地位。
+ganglion,神经节,The basal ganglion is involved in movement coordination.,基底节参与运动协调。
+amygdala,杏仁核,The amygdala is key to processing emotional responses.,杏仁核是处理情感反应的关键。
+spatial,空间的,Spatial cognition allows us to navigate the environment.,空间认知使我们能够导航环境。
+convoluted,褶皱的,The convoluted surface increases the brain's area.,褶皱的表面增加了大脑的面积。
+reside,居住/存在于,Many specialized neurons reside in the neocortex.,许多特化神经元存在于新皮层中。
+pyramidal,锥体的,Pyramidal cells are the primary output of the cortex.,锥体细胞是皮层的主要输出。
+orient,定向/导向,Cells in the visual cortex are oriented to specific bars.,视觉皮层的细胞对特定条纹具有定向性。
+fissure,裂,The longitudinal fissure separates the two hemispheres.,纵裂将两个半球分开。
+sulcus,沟,A sulcus is a groove on the surface of the brain.,沟是大脑表面的一种凹槽。
+ridge,脊,The ridges on the brain's surface are called gyri.,大脑表面的脊被称为脑回。
+gyrus,脑回,The precentral gyrus contains the primary motor cortex.,前中央回包含初级运动皮层。
+occipital,枕叶的,The occipital lobe is responsible for visual processing.,枕叶负责视觉处理。
+parietal,顶叶的,The parietal lobe integrates sensory information.,顶叶整合感觉信息。
+reasoning,推理,Frontal lobes are essential for logical reasoning.,前额叶对逻辑推理至关重要。
+temporal,颞叶的,The temporal lobe is involved in auditory perception.,颞叶涉及听觉感知。
+frontal,额叶的,The frontal lobe manages complex executive functions.,额叶管理复杂的执行功能。
+cortical,皮层的,Cortical layers have distinct cellular compositions.,皮层各层具有不同的细胞组成。
+predominantly,主要地,The motor cortex is predominantly involved in movement.,运动皮层主要涉及运动。
+hierarchically,分层地,The visual system is organized hierarchically.,视觉系统是按层级组织的。
+retina,视网膜,Light is converted into neural signals in the retina.,光在视网膜中转化为神经信号。
+lateral,侧向的,The lateral pathway carries signals to the limbs.,侧向通路将信号传导至四肢。
+geniculate,膝状的,The geniculate nucleus is a key relay for vision.,膝状核是视觉的关键中继点。
+bar,条/条纹,Some neurons respond specifically to oriented bars.,某些神经元专门对定向条纹做出反应。
+inferotemporal,下颞叶的,The inferotemporal cortex is key for object recognition.,下颞叶皮层是物体识别的关键。
+ventral,腹侧的,The ventral stream is often called the 'what' pathway.,腹侧流通常被称为“识别（what）”通路。
+stream,流/通路,Visual information flows through two major streams.,视觉信息流经两个主要通路。
+dorsal,背侧的,The dorsal stream processes spatial location.,背侧流处理空间位置。
+somatosensory,躯体感觉的,The somatosensory cortex processes touch and pain.,躯体感觉皮层处理触摸和疼痛。
+gustatory,味觉的,The gustatory cortex is responsible for the sense of taste.,味觉皮层负责味觉。
+supplementary,辅助的,The supplementary motor area helps plan complex moves.,辅助运动区帮助规划复杂的动作。
+correspond,对应,Certain brain areas correspond to specific body parts.,某些大脑区域对应特定的身体部位。
+scheme,方案/模式,The coding scheme represents how data is stored.,编码方案代表了数据是如何存储的。
+mediate,介导/调解,Synaptic changes mediate the formation of memories.,突触变化介导了记忆的形成。
+fundamentally,根本地,Neural circuits are fundamentally adaptive.,神经回路从根本上说是具有适应性的。
+volley,齐射/群发,A volley of impulses is sent down the nerve fiber.,一簇脉冲沿着神经纤维发送。
+prominent,显著的,The central sulcus is a prominent feature of the brain.,中央沟是大脑的一个显著特征。
